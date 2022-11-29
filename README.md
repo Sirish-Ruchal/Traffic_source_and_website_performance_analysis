@@ -22,7 +22,7 @@ Here the data should be compared with 2nd month in the table as the 1st month st
 
 2. UTM (Urchin Tracking Module) is what marketer use to track each users and their journey from internet all the way till the orders. This is attached in the website link and pushed on the internet. If you wish to see, search anything on google and click on the first ad. when you click on the website url, you will find the this word "UTM" in it. So next task is to identify result from different UTM campaign. In this case, we have 2 utm_campaigns (brand and nonbrand). Nonbrand is the best performer between these two. This time we have to pull the result from both campaign till the year end. 
 
-![Screen Shot 2022-11-19 at 11 51 19](https://user-images.githubusercontent.com/109921496/202849381-83166bfd-53db-4b4c-829e-b01bf1341809.png)
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L29-L49
 
 This is the SQL code used in Mavenfuzzyfactory database to pull the result.
 
@@ -32,7 +32,7 @@ We can observe that there is vast difference between number of sessions and orde
 
 3. Now, the conversion rate will be pull and divide them into device type. In this case, we have mobile and desktop. To identify which device type performs well in this business. 
 
-![Screen Shot 2022-11-19 at 12 14 16](https://user-images.githubusercontent.com/109921496/202850337-e2cbf1cf-0d2e-4a79-9c13-5ee7c3426cb5.png)
+[![Screen Shot 2022-11-19 at 12 14 16](https://user-images.githubusercontent.com/109921496/202850337-e2cbf1cf-0d2e-4a79-9c13-5ee7c3426cb5.png)](https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L54-L74)
 
 This code bring the result as below:
 
