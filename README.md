@@ -68,10 +68,8 @@ https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis
 This table shows that there are almost equal amount of users visited in /home and /lander-1. However, the conversion rate is slightly different. Compared to /home, /lander-1 have generated 27.51% higher conversion rate. Meaning, lander-1 address the customer expectation better. 
 
 7. Since we know that /lander-1 is better performer than /home, now let’s see the customer journey landing in each landing page (/home,/lander-1). Pull the conversion funnel of the website sessions landing in both landing page. 
- 
-![Screen Shot 2022-11-19 at 14 45 30](https://user-images.githubusercontent.com/109921496/202856589-67f14232-befe-4ed1-88af-924fcffdf57f.png)
-![Screen Shot 2022-11-19 at 14 46 52](https://user-images.githubusercontent.com/109921496/202856644-1a8886fa-fd8f-4f25-b79b-d3246cf31d78.png)
-![Screen Shot 2022-11-19 at 14 47 12](https://user-images.githubusercontent.com/109921496/202856661-980d677c-2455-43b3-8283-7a8c6430b5c9.png)
+
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L185-L259
 
 Now the result table:
 ![Screen Shot 2022-11-19 at 14 48 21](https://user-images.githubusercontent.com/109921496/202856699-554c3389-06c7-4673-8da6-96cdc89db272.png)
@@ -79,7 +77,7 @@ Here we can observe that /home loses large number of user when going to the prod
 
 8. Similar to above change, the website manager made a change in billing page too. A new billing page was introduced on ‘2012-09-10’. Website manager made an hypothesis that change in billing page will be increase in number of order and people will be motivated to checkout. Therefore, this task is to bring the result on ‘2012-11-27’ and compare if their hypothesis worked. 
 
-![Screen Shot 2022-11-19 at 15 18 35](https://user-images.githubusercontent.com/109921496/202857931-09993334-0e8f-413e-b594-4990f6016660.png)
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L267-L305
 
 ![Screen Shot 2022-11-19 at 15 19 20](https://user-images.githubusercontent.com/109921496/202857976-de0b3859-f7fc-42ef-9de3-6f31a140ade4.png)
 
