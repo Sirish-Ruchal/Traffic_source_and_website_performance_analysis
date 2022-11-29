@@ -32,7 +32,7 @@ We can observe that there is vast difference between number of sessions and orde
 
 3. Now, the conversion rate will be pull and divide them into device type. In this case, we have mobile and desktop. To identify which device type performs well in this business. 
 
-[![Screen Shot 2022-11-19 at 12 14 16](https://user-images.githubusercontent.com/109921496/202850337-e2cbf1cf-0d2e-4a79-9c13-5ee7c3426cb5.png)](https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L54-L74)
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L54-L74
 
 This code bring the result as below:
 
@@ -42,7 +42,7 @@ The above table demonstrates that desktop is the major driver of traffic and sal
 
 4. We have realised that the gsearch is the major driver for increasing the number of sessions in the website. But what is the difference between gsearch and bsearch? Is there any improvement in bsearch and if there is, by how much? Let’s find out.
  
-![Screen Shot 2022-11-19 at 12 27 54](https://user-images.githubusercontent.com/109921496/202850816-ecf595ed-5a53-4794-897e-f7feee9e2b99.png)
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L79-L93
 
 ![Screen Shot 2022-11-19 at 12 29 16](https://user-images.githubusercontent.com/109921496/202850861-eb3b56ce-e03f-455b-a1fb-67b970dec984.png)
 
@@ -50,7 +50,7 @@ Seems like initially, there was a great difference between gsearch and bsearch. 
 
 5. We have seen difference between device, utm_source and utm_campaign. Now, let summarize the everything to see the aggregate result. Meaning, next task will be to pull the overall conversion rate without limiting with any metric. This will be last task for traffic source analysis in this project.
 
-![Screen Shot 2022-11-19 at 13 01 04](https://user-images.githubusercontent.com/109921496/202852100-d835beb6-181c-44b6-9e69-f29880393163.png)
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L99-L115
 
 ![Screen Shot 2022-11-19 at 13 02 07](https://user-images.githubusercontent.com/109921496/202852134-f7a4c8e0-705d-40cb-9941-a3bfb217a5ec.png)
 
@@ -61,8 +61,7 @@ It looks like company have steady growth since month 1 of operation. However, a 
 6. **Website Performance Analysis**: Let’s move away from traffic source analysis and see what story does numbers from website tells. On 2012-06-19, website manager introduced another landing page apart from ‘/home’ which was ‘/lander-1’. We are tasked to pull effect created by both the landing page. The next task requires to limit the date range from ‘2012-06-19’ to ‘2012-11-27’. This is the time frame when both landing pages were live and website sessions were almost equally divided between them. In short, it helps to pull unbiased result. 
 
 Here the codes are presented in 2 separate screen shot:
-![Screen Shot 2022-11-19 at 14 21 42](https://user-images.githubusercontent.com/109921496/202855438-5d68bd11-d67c-4745-9455-fd0dfc1bdce8.png)
-![Screen Shot 2022-11-19 at 14 22 32](https://user-images.githubusercontent.com/109921496/202855480-553d3594-bbd2-4308-95d6-a04f377b6794.png)
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L125-L173
 
 ![Screen Shot 2022-11-19 at 14 26 14](https://user-images.githubusercontent.com/109921496/202855661-fda55678-4758-472e-8733-460247b11c04.png)
 
