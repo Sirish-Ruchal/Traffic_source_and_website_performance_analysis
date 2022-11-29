@@ -12,7 +12,7 @@ Top landing page refers to the page in the website where most customers land. Bo
 The project will answer 8 questions which will revolve around website performance and traffic source analysis. 
 1.	The database have 2 driving traffic which are gsearch and bsearch. Gsearch seems to be the one that drives the growth. Therefore, Pull the conversion rate from gsearch traffic for each month till 27th Dec 2012.
 
-![Screen Shot 2022-11-18 at 16 15 18](https://user-images.githubusercontent.com/109921496/202750983-d6ccaf70-e54c-4201-8e81-d3feee6f6121.png)
+https://github.com/Sirish-Ruchal/Traffic_source_and_website_performance_analysis/blob/f1b407f43f1b53818487f5565fee2a79cb3b21c5/traffic_and_website_performance_analysis.sql#L4-L23
 
 This query gives the following result.
 
